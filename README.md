@@ -1,24 +1,64 @@
-# 💫 About Me:
-🔭 I’m currently pursuing B.Tech. in Electronics and Communication Engineering. I am interested to build my career in VLSI domain, also I'm a huge tech enthusiast as well.<br>👯 I’m looking to collaborate on the development of mobile apps for android and also creating useful innovative solutions of the real world problems, be it hardware based or software.<br>🤝 I’m looking for help with the advanced tech concepts that can be useful and align to my goal.<br>🌱 I’m currently learning learning about the design and verification of the silicon chips, and also working on to improve my skills in the android app development.<br>⚡ Fun fact about me is that beside this academic related stuff, I am also into sports as well. I am a titled player in chess. Also beside chess, table tennis and badminton also draw my attention.
+<h1 align="center">Hi 👋, I'm Vaibhav Dikshit</h1>
+<h3 align="center">Future VLSI Engineer | Android Developer | Hardware-Software Innovator</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;VLSI+Design+%26+Verification+Enthusiast;Android+Developer+📱;Building+Real+World+Tech+Solutions+🚀" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vaib_1407/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaibhav-dikshit-a225722b4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavdxt14@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vaibhav140705&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vaibhav140705&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav140705&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vaibhav140705&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav140705&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Vaibhav140705?label=Followers&style=social" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vaibhav140705&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```verilog
+module Vaibhav_Dikshit();
+
+  string education = "B.Tech in Electronics & Communication Engineering";
+  string goal = "VLSI Design & Verification Engineer";
+  string interests = "Semiconductor Systems | Android Apps | Hardware-Software Integration";
+  string mindset = "Learn → Build → Optimize → Repeat 🚀";
+
+endmodule
+
+🔭 Currently diving deep into Digital Design, RTL & Chip Verification
+
+📱 Developing Android applications & real-world solutions
+
+🤝 Open to collaboration on VLSI, IoT & Mobile App projects
+
+🌱 Continuously strengthening Core Electronics & System Design
+
+♟️ Titled Chess Player | Also enjoy Table Tennis & Badminton
+
+🧠 Core Domains
+🔬 VLSI & Embedded Systems
+<p> <img src="https://img.shields.io/badge/Digital_Design-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/RTL-007ACC?style=for-the-badge" /> <img src="https://img.shields.io/badge/Verification-9C27B0?style=for-the-badge" /> <img src="https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" /> </p>
+📱 App Development
+<p> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" /> </p>
+💻 Programming
+<p> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
+🤖 AI / ML & Tools
+<p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav140705&show_icons=true&theme=github_dark&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav140705&layout=compact&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav140705&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav140705&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Vaibhav140705&theme=github_dark&no-frame=true&row=1&column=6" /> </p>
+🚀 Featured Projects
+Project 1	Project 2
+
+	
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/vaibhav-dikshit-a225722b4"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:vaibhavdxt14@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/vaib_1407/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+<div align="center">
+🐍 Contribution Snake
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav140705/Vaibhav140705/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav140705/Vaibhav140705/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaibhav140705/Vaibhav140705/output/github-contribution-grid-snake.svg" /> </picture> </div>
+<div align="center">
+💡 Tech Philosophy
+
+⚡ "Hardware builds precision. Software enables scale. I aim to master both."
+
+</div> ```
