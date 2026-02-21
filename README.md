@@ -47,15 +47,10 @@ endmodule
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav140705&show_icons=true&theme=github_dark&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav140705&layout=compact&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav140705&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav140705&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" /> </p>
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Vaibhav140705&theme=github_dark&no-frame=true&row=1&column=6" /> </p>
-🚀 Featured Projects
-Project 1	Project 2
-
-	
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/vaibhav-dikshit-a225722b4"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:vaibhavdxt14@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/vaib_1407/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
-<div align="center">
 🐍 Contribution Snake
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav140705/Vaibhav140705/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav140705/Vaibhav140705/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaibhav140705/Vaibhav140705/output/github-contribution-grid-snake.svg" /> </picture> </div>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav140705/Vaibhav140705/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav140705/Vaibhav140705/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaibhav140705/Vaibhav140705/output/github-contribution-grid-snake.svg" /> </picture>
 <div align="center">
 💡 Tech Philosophy
 
