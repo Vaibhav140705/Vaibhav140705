@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/14kS5g9MuqAmpIf92nMNbPd53VL-ug8H9/view?usp=sharing">
-    🎥 Watch My Introduction Video--><img src="Self1.png">
+    <img src="Self1.png"><br>
+    🎥 Watch My Introduction Video
   </a>
 </p>
 
