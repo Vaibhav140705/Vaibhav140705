@@ -6,6 +6,12 @@
 </p>
 
 <p align="center">
+  <a href="YOUR_GOOGLE_DRIVE_LINK">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Intro Video" width="60%">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaibhav140705&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/Vaibhav140705?label=Followers&style=social" />
 </p>
