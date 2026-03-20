@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_GOOGLE_DRIVE_LINK">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Intro Video" width="60%">
+  <a href="https://drive.google.com/file/d/14kS5g9MuqAmpIf92nMNbPd53VL-ug8H9/view?usp=sharing">
+    <img src="Self.png">
   </a>
 </p>
 
