@@ -5,12 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;VLSI+Design+%26+Verification+Enthusiast;Android+Developer+📱;Building+Real+World+Tech+Solutions+🚀" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://drive.google.com/file/d/14kS5g9MuqAmpIf92nMNbPd53VL-ug8H9/view?usp=sharing">
     <img src="Self1.png"><br>
     🎥 Watch My Introduction Video
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaibhav140705&label=Profile%20views&color=0e75b6&style=flat" />
